@@ -2,7 +2,7 @@
 
 **Robotics engineer** · M.Sc. Robotics & Intelligent Systems @ NTU Singapore
 
-**Biomedical engineer** · M.Sc. Biomedical Engineering @ KIT 
+**Biomedical engineer** · B.Sc. Biomedical Engineering @ KIT 
 
 I've worked on surgical robots, space manipulators, drones, brain signals, animal behaviour and 5G cybsecurity.
 The topics change. The reason doesn't.
