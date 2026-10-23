@@ -4,7 +4,7 @@
 
 **Biomedical engineer** · M.Sc. Biomedical Engineering @ KIT 
 
-I've worked on surgical robots, space manipulators, drones, brain signals, animal behaviour and 5G security.
+I've worked on surgical robots, space manipulators, drones, brain signals, animal behaviour and 5G cybsecurity.
 The topics change. The reason doesn't.
 
 **I believe progress is achieved by empowering people.**
